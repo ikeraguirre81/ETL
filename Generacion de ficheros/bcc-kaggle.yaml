@@ -1,0 +1,4 @@
+train: /kaggle/working/blood-cell-count-and-typesdetection/images/images/train
+val: /kaggle/working/blood-cell-count-and-typesdetection/images/images/valid
+nc: 3
+names: ['Platelets', 'RBC', 'WBC']
